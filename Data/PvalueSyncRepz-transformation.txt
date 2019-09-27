@@ -1,0 +1,20 @@
+"cell" "p"
+"1" "BG01_ESC" 0.06
+"2" "BG02_ESC" 0.136
+"3" "CyT49_ESC" 0.019
+"4" "CyT49_Liver_D16" 0.192
+"5" "CyT49_Liver_D5" 0.276
+"6" "CyT49_Liver_D8" 0.344
+"7" "CyT49_Panc_D12" 0.164
+"8" "CyT49_Panc_D5" 0.279
+"9" "CyT49_Panc_D8" 0.383
+"10" "H1_ESC" 0.114
+"11" "H7_ESC" 0.053
+"12" "H9_ESC" 0.002
+"13" "H9_Mesothelial" 0.099
+"14" "H9_Smooth_Muscle" 0.017
+"15" "HCT116_Epithelial_cells_from_colon_carcinoma" 0.017
+"16" "HeLaS3_Cervical_Carcinoma" 0
+"17" "HepG2_Hepatocellular_Carcinoma" 0.014
+"18" "MCF.7_Adenocarcinoma" 0.002
+"19" "SK.N.SH_Neuroblastoma" 0.048
